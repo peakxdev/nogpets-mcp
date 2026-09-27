@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.nogpets/nogpets",
   "title": "NogPets",
-  "description": "Book dog grooming, walks and pet sitting in Stellenbosch, South Africa. Register a pet business.",
-  "version": "1.1.0",
+  "description": "Register and manage your pet business from any AI assistant anywhere. Book pet care in Stellenbosch.",
+  "version": "1.2.0",
   "websiteUrl": "https://nogpets.com/developers/mcp",
   "icons": [
     { "src": "https://nogpets.com/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] },
