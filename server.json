@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.nogpets/nogpets",
   "title": "NogPets",
-  "description": "Register and manage your pet business from any AI assistant anywhere. Book pet care in Stellenbosch.",
-  "version": "1.2.0",
+  "description": "Run your pet grooming business from your AI assistant. Book pet care in Stellenbosch.",
+  "version": "1.3.0",
   "websiteUrl": "https://nogpets.com/developers/mcp",
   "icons": [
     { "src": "https://nogpets.com/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] },
